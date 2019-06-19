@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
+    "username": "chatadmin",
     "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
+    "database": "chatdb",
+    "host": "chatapp.czxc8a0p5a3i.us-east-2.rds.amazonaws.com",
     "dialect": "postgres"
   }
 }
